@@ -23,7 +23,7 @@ npm run start
 
 * Twitter: [@yashkalavadiya1](https://twitter.com/yashkalavadiya1)
 * Github: [@yash10102002](https://github.com/yash10102002)
-* LinkedIn: [@yash kalavadiya](https://linkedin.com/in/yash kalavadiya)
+* LinkedIn: [@yash kalavadiya](https://www.linkedin.com/in/yash-kalavadiya-789141170/)
 
 ## Show your support
 
